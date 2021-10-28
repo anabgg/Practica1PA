@@ -1,0 +1,25 @@
+﻿  practica1_PA.cpp
+C:\Users\Odezm\Desktop\SONIA\UNI\3AñoUNI\1cuatri\PA\PRACTICA\practica1_PA\practica1_PA\color.h(16,7): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\Odezm\Desktop\SONIA\UNI\3AñoUNI\1cuatri\PA\PRACTICA\practica1_PA\practica1_PA\color.h(17,7): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\Odezm\Desktop\SONIA\UNI\3AñoUNI\1cuatri\PA\PRACTICA\practica1_PA\practica1_PA\Solid.h(18,41): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Odezm\Desktop\SONIA\UNI\3AñoUNI\1cuatri\PA\PRACTICA\practica1_PA\practica1_PA\Solid.h(18,59): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Odezm\Desktop\SONIA\UNI\3AñoUNI\1cuatri\PA\PRACTICA\practica1_PA\practica1_PA\Solid.h(18,87): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Odezm\Desktop\SONIA\UNI\3AñoUNI\1cuatri\PA\PRACTICA\practica1_PA\practica1_PA\Solid.h(18,98): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Odezm\Desktop\SONIA\UNI\3AñoUNI\1cuatri\PA\PRACTICA\practica1_PA\practica1_PA\practica1_PA.cpp(15,25): warning C4305: 'inicializando': truncamiento de 'double' a 'GLclampf'
+C:\Users\Odezm\Desktop\SONIA\UNI\3AñoUNI\1cuatri\PA\PRACTICA\practica1_PA\practica1_PA\practica1_PA.cpp(16,27): warning C4305: 'inicializando': truncamiento de 'double' a 'GLclampf'
+C:\Users\Odezm\Desktop\SONIA\UNI\3AñoUNI\1cuatri\PA\PRACTICA\practica1_PA\practica1_PA\practica1_PA.cpp(23): error C2280: 'Game::Game(void)': se está intentando hacer referencia a una función eliminada.
+C:\Users\Odezm\Desktop\SONIA\UNI\3AñoUNI\1cuatri\PA\PRACTICA\practica1_PA\practica1_PA\Game.h(17): message : el compilador generó 'Game::Game' aquí
+C:\Users\Odezm\Desktop\SONIA\UNI\3AñoUNI\1cuatri\PA\PRACTICA\practica1_PA\practica1_PA\Game.h(17,1): message : "Game::Game(void)": la función se eliminó implícitamente porque un objeto "Game::teapot" miembro de datos no tiene ningún elemento constructor predeterminado adecuado o la resolución de sobrecarga era ambigua.
+C:\Users\Odezm\Desktop\SONIA\UNI\3AñoUNI\1cuatri\PA\PRACTICA\practica1_PA\practica1_PA\Game.h(6): message : vea la declaración de 'Game::teapot'
+  Torus.cpp
+C:\Users\Odezm\Desktop\SONIA\UNI\3AñoUNI\1cuatri\PA\PRACTICA\practica1_PA\practica1_PA\color.h(16,7): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\Odezm\Desktop\SONIA\UNI\3AñoUNI\1cuatri\PA\PRACTICA\practica1_PA\practica1_PA\color.h(17,7): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\Odezm\Desktop\SONIA\UNI\3AñoUNI\1cuatri\PA\PRACTICA\practica1_PA\practica1_PA\Solid.h(18,41): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Odezm\Desktop\SONIA\UNI\3AñoUNI\1cuatri\PA\PRACTICA\practica1_PA\practica1_PA\Solid.h(18,59): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Odezm\Desktop\SONIA\UNI\3AñoUNI\1cuatri\PA\PRACTICA\practica1_PA\practica1_PA\Solid.h(18,87): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Odezm\Desktop\SONIA\UNI\3AñoUNI\1cuatri\PA\PRACTICA\practica1_PA\practica1_PA\Solid.h(18,98): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Odezm\Desktop\SONIA\UNI\3AñoUNI\1cuatri\PA\PRACTICA\practica1_PA\practica1_PA\Torus.cpp(10,17): error C2065: 'GetSmallRadio': identificador no declarado
+C:\Users\Odezm\Desktop\SONIA\UNI\3AñoUNI\1cuatri\PA\PRACTICA\practica1_PA\practica1_PA\Torus.cpp(10,32): error C2065: 'GetBigRadio': identificador no declarado
+C:\Users\Odezm\Desktop\SONIA\UNI\3AñoUNI\1cuatri\PA\PRACTICA\practica1_PA\practica1_PA\Torus.cpp(10,45): error C2065: 'GetPlanes': identificador no declarado
+C:\Users\Odezm\Desktop\SONIA\UNI\3AñoUNI\1cuatri\PA\PRACTICA\practica1_PA\practica1_PA\Torus.cpp(10,56): error C3861: 'GetRings': no se encontró el identificador
+  Generando código...
