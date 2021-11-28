@@ -1,0 +1,20 @@
+﻿  scene.cpp
+C:\Users\Odezm\Desktop\SONIA\UNI\3AñoUNI\1cuatri\PA\PRACTICA\practica1_PA\practica1_PA\Teapot.h(9,8): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Odezm\Desktop\SONIA\UNI\3AñoUNI\1cuatri\PA\PRACTICA\practica1_PA\practica1_PA\Teapot.h(9,8): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\Odezm\Desktop\SONIA\UNI\3AñoUNI\1cuatri\PA\PRACTICA\practica1_PA\practica1_PA\Cube.h(11,6): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Odezm\Desktop\SONIA\UNI\3AñoUNI\1cuatri\PA\PRACTICA\practica1_PA\practica1_PA\Cube.h(11,6): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\Odezm\Desktop\SONIA\UNI\3AñoUNI\1cuatri\PA\PRACTICA\practica1_PA\practica1_PA\Cuboid.h(10,8): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Odezm\Desktop\SONIA\UNI\3AñoUNI\1cuatri\PA\PRACTICA\practica1_PA\practica1_PA\Cylinder.h(8,10): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Odezm\Desktop\SONIA\UNI\3AñoUNI\1cuatri\PA\PRACTICA\practica1_PA\practica1_PA\Cylinder.h(9,1): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\Odezm\Desktop\SONIA\UNI\3AñoUNI\1cuatri\PA\PRACTICA\practica1_PA\practica1_PA\Cylinder.h(9,1): warning C4305: 'argumento': truncamiento de 'double' a 'const float'
+C:\Users\Odezm\Desktop\SONIA\UNI\3AñoUNI\1cuatri\PA\PRACTICA\practica1_PA\practica1_PA\Sphere.h(8,8): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Odezm\Desktop\SONIA\UNI\3AñoUNI\1cuatri\PA\PRACTICA\practica1_PA\practica1_PA\Sphere.h(8,8): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\Odezm\Desktop\SONIA\UNI\3AñoUNI\1cuatri\PA\PRACTICA\practica1_PA\practica1_PA\Torus.h(8,7): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Odezm\Desktop\SONIA\UNI\3AñoUNI\1cuatri\PA\PRACTICA\practica1_PA\practica1_PA\scene.cpp(17,20): warning C4244: 'argumento': conversión de 'const double' a 'float'; posible pérdida de datos
+C:\Users\Odezm\Desktop\SONIA\UNI\3AñoUNI\1cuatri\PA\PRACTICA\practica1_PA\practica1_PA\scene.cpp(21,54): warning C4244: 'argumento': conversión de 'double' a 'const float'; posible pérdida de datos
+C:\Users\Odezm\Desktop\SONIA\UNI\3AñoUNI\1cuatri\PA\PRACTICA\practica1_PA\practica1_PA\scene.cpp(28,54): warning C4244: 'argumento': conversión de 'double' a 'const float'; posible pérdida de datos
+C:\Users\Odezm\Desktop\SONIA\UNI\3AñoUNI\1cuatri\PA\PRACTICA\practica1_PA\practica1_PA\scene.cpp(35,54): warning C4244: 'argumento': conversión de 'double' a 'const float'; posible pérdida de datos
+C:\Users\Odezm\Desktop\SONIA\UNI\3AñoUNI\1cuatri\PA\PRACTICA\practica1_PA\practica1_PA\scene.cpp(43,27): warning C4305: 'argumento': truncamiento de 'double' a 'const float'
+C:\Users\Odezm\Desktop\SONIA\UNI\3AñoUNI\1cuatri\PA\PRACTICA\practica1_PA\practica1_PA\scene.cpp(50,27): warning C4305: 'argumento': truncamiento de 'double' a 'const float'
+C:\Users\Odezm\Desktop\SONIA\UNI\3AñoUNI\1cuatri\PA\PRACTICA\practica1_PA\practica1_PA\scene.cpp(57,27): warning C4305: 'argumento': truncamiento de 'double' a 'const float'
+  practica1_PA.vcxproj -> C:\Users\Odezm\Desktop\SONIA\UNI\3AñoUNI\1cuatri\PA\PRACTICA\practica1_PA\Debug\practica1_PA.exe
